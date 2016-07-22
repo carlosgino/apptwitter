@@ -1,4 +1,4 @@
-Consumer Key (API Key)	5YI6ksCELgcMAfhJZPlhtZoqc
-Consumer Secret (API Secret)	GjkBKufhUMVv2ZpGoDNUXGF3hDnSM2ZPCPoPo9y5sv5ADmpFgN
-Access Token	102537203-OTd6YjFRP93u1ZB7TB63EzdSTHusFOuZwwwvM9na
-Access Token Secret	q3A35wh2pFuVPunLu0vXqR86GOPsrc5jpEOXfsRpiULXA
+consumer_key  5YI6ksCELgcMAfhJZPlhtZoqc
+consumer_secret  GjkBKufhUMVv2ZpGoDNUXGF3hDnSM2ZPCPoPo9y5sv5ADmpFgN
+access_token	 102537203-OTd6YjFRP93u1ZB7TB63EzdSTHusFOuZwwwvM9na
+access_secret	 q3A35wh2pFuVPunLu0vXqR86GOPsrc5jpEOXfsRpiULXA

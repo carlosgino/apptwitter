@@ -25,7 +25,7 @@ shinyApp(
     # Enviar consulta a Twitter
     dataInput <- reactive({  
       tweets <- twListToDF(searchTwitter(input$searchkw, n = 100, 
-                                         geocode = paste0(input$lat, ",", input$long, ",1000km"))) 
+                                         geocode = paste0(input$lat, ",", input$long, ",100km"))) 
       tweets$created <- as.character(tweets$created)
       tweets <- tweets[!is.na(tweets[, "longitude"]), ]
     })
